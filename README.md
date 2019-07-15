@@ -21,7 +21,9 @@ I took This is my version of https://github.com/MinorMole/RcloneLab as a base an
 
 Here is a screenshot of the main part of netdata while downloading:
 <br>
-<b>Yes you see that right. It's downloading with 1.1 GBit per second :)</b>
+<br>
+
+<b>Yes you see that right. It's downloading with more than 1 GIGABITS per second :)</b><br>
 <br>
 
 <img src="https://cdn.discordapp.com/attachments/565808099680714774/599906860249907200/unknown.png">
