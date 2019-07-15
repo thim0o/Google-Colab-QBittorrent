@@ -23,8 +23,10 @@ Below is a screenshot of the main part of netdata while downloading:
 <br>
 <br>
 
-<h1><b>Yes you see that right. 
-It's downloading with more than 1 GIGABITS per second :)</b></h1><br>
+<h1><b>Yes you see that right. <br>
+It's downloading with more than 1 GIGABITS per second :)</b></h1>
+
+<br>
 <br>
 
 <img src="https://cdn.discordapp.com/attachments/565808099680714774/599906860249907200/unknown.png">
