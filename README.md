@@ -35,3 +35,7 @@ It's downloading with more than 1 GIGABITS per second :)</b></h1>
 <br>
 
 <img src="https://cdn.discordapp.com/attachments/565808099680714774/599906860249907200/unknown.png">
+<br><br><br>
+For the people not familiar with the webUI, this is what it looks like:<br>
+<img src="https://i.snag.gy/ZAg2PS.jpg">
+
