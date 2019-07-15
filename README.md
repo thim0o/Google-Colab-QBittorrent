@@ -17,13 +17,14 @@ I took This is my version of https://github.com/MinorMole/RcloneLab as a base an
 
 <b>Usage:</b>
 1. Click on open in colaboratory and run the notebook
+<br>
 
-
-Here is a screenshot of the main part of netdata while downloading:
+Below is a screenshot of the main part of netdata while downloading:
 <br>
 <br>
 
-<h1><b>Yes you see that right. It's downloading with more than 1 GIGABITS per second :)</b></h1><br>
+<h1><b>Yes you see that right. 
+It's downloading with more than 1 GIGABITS per second :)</b></h1><br>
 <br>
 
 <img src="https://cdn.discordapp.com/attachments/565808099680714774/599906860249907200/unknown.png">
