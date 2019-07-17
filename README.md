@@ -7,8 +7,8 @@ I took https://github.com/MinorMole/RcloneLab as a base and edited it to my liki
 
 <b>Features:</b>
 1. QBittorrent as web interface
-2. Ability to mount Google Drive with eiter rClone or the colab drive plugin
-3. Ability to edit the QBittorrent config trough the notebook to make them persistant
+2. Ability to mount Google Drive with either rClone or the colab drive plugin
+3. Ability to edit the QBittorrent config trough the notebook to make it persistant
 4. Ability to change the qbittorrent webUI subdomain trough the notebook
 4. 14 search engines Pre-installed on Qbittorrent (On the webUI Click on view --> Search)
 5. File browser
