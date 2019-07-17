@@ -2,7 +2,7 @@
 
 This is a Google Colab notebook with QBittorrent and Rclone.
 
-I took This is my version of https://github.com/MinorMole/RcloneLab as a base and edited it to my likings.
+This is my version of https://github.com/MinorMole/RcloneLab as a base and edited it to my likings.
 
 
 <b>Features:</b>
