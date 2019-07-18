@@ -12,7 +12,7 @@ I took https://github.com/MinorMole/RcloneLab as a base and edited it to my liki
 4. Ability to change the qbittorrent webUI subdomain trough the notebook
 4. 14 search engines Pre-installed on Qbittorrent (On the webUI Click on view --> Search)
 5. File browser
-6. Netdata as system usage monitor 
+6. Netdata as system usage monitor<br>
 <b>7. Now also includes JDownloader!</b>
 
 
