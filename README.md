@@ -13,6 +13,7 @@ I took https://github.com/MinorMole/RcloneLab as a base and edited it to my liki
 4. 14 search engines Pre-installed on Qbittorrent (On the webUI Click on view --> Search)
 5. File browser
 6. Netdata as system usage monitor 
+<b>7. Now also includes JDownloader!</b>
 
 
 
