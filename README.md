@@ -29,9 +29,6 @@ Below is a screenshot of the main part of netdata while downloading:
 <br>
 <br>
 
-<h1><b>Yes you see that right. <br>
-It's downloading with more than 1 GIGABITS per second :)</b></h1>
-
 <br>
 <br>
 
